@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/tom/build/homeoffice/hmpo-drt-vagrant/dct-drt-puppet/hieradata/domain/vagrant.homeoffice.internal'
+let g:netrw_dirhist_2='/Users/tom/build/homeoffice/hmpo-drt-vagrant/dct-drt-puppet/ho_modules/collectd/templates/plugin'
+let g:netrw_dirhist_3='/Users/tom/build/hmpo-drt-vagrant/bin'
